@@ -4,7 +4,12 @@
     Now she is dead. Since it is dead, it has not been updated in the past two years. The author must give up maintenance to maintain the author's life. Now the author may be doing 996, which is ironic
 </div>
   <div style="font-size: 30px">🙂</div>
+    
 </div>
+
+> Nginx GUI 项目恢复开发，已新建2.0的文件夹： https://github.com/onlyGuo/nginx-gui-2
+> 
+> Nginx GUI 2.0 将是一个从头构建的全新本本，将会使用自有的轻量级解库完成对conf文件的操作：https://github.com/onlyGuo/nginx-conf-analysis
 
 
 <p align="center">
